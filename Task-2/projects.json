@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cobbler",
+    "desc": "Full-Stack Django project which is designed locationg cobbler shop near current location",
+    "image": "cobbler",
+    "category": "Django",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Digital Pandit",
+    "desc": "Full-Stack Django project with help of this plateform people can easily book pandit for any kind of rituals. ",
+    "image": "digipandit",
+    "category": "Django",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Personal Portfolio Website using HTML, CSS, Javascript, and little bit Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON",
+    "image": "portfolio1",
+    "category": "Basic",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "ToDo Web-App",
+    "desc": "Fully  functional Todo app for manage their daily taks and routine at one place.",
+    "image": "todo",
+    "category": "Basic",
+    "links": {
+      "view": "https://todo-app-quadb.netlify.app/",
+      "code": "https://github.com/SujeetKumar-1/todo-web-app"
+    }
+  },
+  {
+    "name": "Home Template",
+    "desc": "Basic landing page design using html and css",
+    "image": "homeTemp",
+    "category": "Basic",
+    "links": {
+      "view": "https://sujeetkumar-1.github.io/Octanet-Task1-July-2023/",
+      "code": "https://github.com/SujeetKumar-1/Octanet-Task1-July-2023"
+    }
+  }
+]
